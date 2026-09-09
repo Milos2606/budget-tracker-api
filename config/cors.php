@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:5173', 'http://localhost:5174'],
+    'allowed_origins' => ['https://cozy-florentine-bd3369.netlify.app/'],
 
     'allowed_origins_patterns' => [],
 
