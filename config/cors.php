@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://cozy-rolypoly-4638f5.netlify.app/'],
+    'allowed_origins' => ['https://cozy-rolypoly-4638f5.netlify.app'],
 
     'allowed_origins_patterns' => [],
 
